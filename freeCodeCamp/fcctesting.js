@@ -38,7 +38,7 @@
 const fs = require('fs');
 const cors = require('cors');
 
-const allowedOriginsMatcher = /^https?:\/\/([\w-]+\.)*freecodecamp.org/;
+const allowedOriginsMatcher = /^https?:\/\/([\w-]+\.)*freecodecamp\.org/;
 
 module.exports = function (app) {
   
