@@ -1,8 +1,5 @@
 {
-	"//1": "describes your app and its dependencies",
-	"//2": "https://docs.npmjs.com/files/package.json",
-	"//3": "updating this file will download and update your packages",
-	"name": "FCC-Advanced-Node-and-Express",
+	"name": "fcc-infosec-bcrypt-challenges",
 	"author": "http://github.com/JosephLivengood",
 	"version": "0.0.1",
 	"description": "What am I about?",
@@ -11,18 +8,18 @@
 		"start": "node server.js"
 	},
 	"dependencies": {
-		"express": "^4.14.1",
-		"cors": "^2.8.1",
 		"body-parser": "^1.16.0",
-		"mongodb": "^2.2.22",
-		"helmet": "^3.4.0"
+		"cors": "^2.8.1",
+		"express": "^4.16.3",
+		"helmet": "^3.13.0",
+		"mongodb": "^3.1.6"
 	},
 	"engines": {
-		"node": "4.4.3"
+		"node": "8.x"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://hyperdev.com/#!/project/welcome-project"
+		"url": "https://github.com/freeCodeCamp/boilerplate-bcrypt.git"
 	},
 	"keywords": [
 		"node",
