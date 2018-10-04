@@ -1,7 +1,7 @@
 # FreeCodeCamp - Data Protection with BCrypt Challenges
 =======================================================
 
-This is the repository for the freeCodeCamp [Information Security with HelmetJS Challenges](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/),  
+This is the _second_ repository for the freeCodeCamp [Information Security with HelmetJS Challenges](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs/),   
 starting with the 12th challenge upwards.  
 The repository to the first challenges resides at: [Applied InfoSec Challenges](https://github.com/freeCodeCamp/boilerplate-infosec)     
 
