@@ -8,7 +8,7 @@ const app         = express();
 
 
 
-// Don't change code until START_ASYNC.
+// Now place yout code between START_(A(SYNC / END_(A)SYNC.
 fccTesting(app); //For FCC testing purposes
 
 const saltRounds = 12;
