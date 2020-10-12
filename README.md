@@ -1,4 +1,3 @@
-**FreeCodeCamp** - bcrypt
-----
+# **freeCodeCamp**
 
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-bcrypt)](https://repl.it/github/freeCodeCamp/boilerplate-bcrypt)
+## [bcrypt Challenges](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/understand-bcrypt-hashes)
