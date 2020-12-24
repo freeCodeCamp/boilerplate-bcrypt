@@ -17,9 +17,6 @@
 		"mongodb": "^2.2.22",
 		"helmet": "^3.4.0"
 	},
-	"engines": {
-		"node": "4.4.3"
-	},
 	"repository": {
 		"type": "git",
 		"url": "https://hyperdev.com/#!/project/welcome-project"
