@@ -16,7 +16,7 @@
 		"cors": "^2.8.1",
 		"express": "^4.14.1",
 		"helmet": "^3.4.0",
-		"mongodb": "^2.2.22"
+		"mongodb": "^3.0.0"
 	},
 	"repository": {
 		"type": "git",
